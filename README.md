@@ -6,6 +6,8 @@ Hangman is a classic word-guessing game built using Python that challenges your 
 
 ## Flow Chart
 
+<img width="588" alt="Solution+-+Hangman+Flowchart+1" src="https://github.com/amarthya-max/Hangman-Game/assets/109640219/0560a164-fde2-489f-b72f-b5483d94b736">
+
 
 
 
